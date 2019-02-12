@@ -13,6 +13,19 @@ import java.util.Scanner;
         boolean especial;
         double limite;
 
+        Conta(int numero, int valor, int deposito, int saldo, boolean especial, double limite){
+            this.saldo=saldo;
+            this.numero=numero;
+            this.valor=valor;
+            this.deposito=deposito;
+            this.especial=especial;
+            this.limite=limite;
+
+        }
+        Conta(){
+            System.out.println("A CLASSE FOI INSTANCIADA");
+        }
+
         void imprimirSaldo(){
             System.out.println(" seu saldo é: " + saldo );
         }
