@@ -1,0 +1,6 @@
+1-) a importancia do paradigma usando orientação a objetos 
+esta no artigo deste link 
+https://tasafo.wordpress.com/2015/03/09/a-importancia-da-programacao-orientada-a-objetos-parte-i/
+
+2-) designer patter são esta no arquivo deste link
+https://www.devmedia.com.br/introducao-design-pattern/18838
