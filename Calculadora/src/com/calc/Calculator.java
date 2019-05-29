@@ -1,9 +1,6 @@
 package com.calc;
 
-import com.swing.ViewCalc;
-
 public class Calculator {
-    ViewCalc result = new ViewCalc();
 
     public static double doSoma(double n1, double n2){
         double resultado = 0.0;
@@ -15,19 +12,18 @@ public class Calculator {
         double resultado = 0.0;
         resultado = n1 - n2;
         return resultado;
-    }//doSoma
+    }//doSub
 
     public static double doDiv(double n1, double n2){
         double resultado = 0.0;
         if(n1 != 0 && n2 != 0)
             resultado = n1 / n2;
         return resultado;
-    }//doSoma
+    }//doDiv
 
     public static double doMult(double n1, double n2){
         double resultado = 0.0;
             resultado = n1 * n2;
         return resultado;
-    }//doSoma
-
+    }//doMulti
 }

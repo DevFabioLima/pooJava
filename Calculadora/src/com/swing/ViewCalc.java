@@ -71,7 +71,6 @@ public class ViewCalc {
             public void actionPerformed(ActionEvent e) {
                 String numeros[];
                 String oQueFazer = txtPrimeiroCampo.getText();
-
                 if(operacao == null || operacao.equals(""))
                     txtResultado.setText("ERROR");
                 else
@@ -97,15 +96,13 @@ public class ViewCalc {
                                 resultado = calc.doDiv(n1, n2);
                             break;
                     }
-
-
                    montarApresentacao(resultado);
-
 
                 }
             }//actionPerformed
         });
         btnLimpar.addActionListener(new ActionListener() {
+
             @Override
             public void actionPerformed(ActionEvent e) {
                 txtResultado.setText("");
@@ -179,10 +176,7 @@ public class ViewCalc {
     private void montarApresentacao(double resultado) {
         int resultadoInt = (int) resultado;
         txtResultado.setText(String.valueOf(resultadoInt));
-
     }
-
-
 
 
 }
