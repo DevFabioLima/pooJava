@@ -2,28 +2,29 @@ package com.calc;
 
 public class Calculator {
 
+
     public static double doSoma(double n1, double n2){
         double resultado = 0.0;
         resultado = n1 + n2;
         return resultado;
-    }//doSoma
+    }//SOMA
 
     public static double doSub(double n1, double n2){
         double resultado = 0.0;
         resultado = n1 - n2;
         return resultado;
-    }//doSub
+    }//MENOS
 
     public static double doDiv(double n1, double n2){
         double resultado = 0.0;
         if(n1 != 0 && n2 != 0)
             resultado = n1 / n2;
         return resultado;
-    }//doDiv
+    }//DIVIDIR
 
     public static double doMult(double n1, double n2){
         double resultado = 0.0;
             resultado = n1 * n2;
         return resultado;
-    }//doMulti
+    }//MULTI
 }

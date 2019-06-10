@@ -65,9 +65,10 @@ public class ViewCalc {
                 txtPrimeiroCampo.setText(txtPrimeiroCampo.getText() + "/");
             }
         });
-        btnIgual.addActionListener(new ActionListener() {
+        btnIgual.addActionListener(new ActionListener(){
 
             @Override
+
             public void actionPerformed(ActionEvent e) {
                 String numeros[];
                 String oQueFazer = txtPrimeiroCampo.getText();
@@ -77,12 +78,17 @@ public class ViewCalc {
                     if(oQueFazer == null || oQueFazer.trim().equals(""))
                         txtResultado.setText("ERROR");
                 else{
+
+
                     numeros = oQueFazer.split(Pattern.quote(operacao));
+
                     double n1 = Double.parseDouble(numeros[0]);
                     double n2 = Double.parseDouble(numeros[1]);
                     double resultado = 0.0;
                     Calculator calc = new Calculator();
-                    switch (operacao){
+
+
+                            switch (operacao){
                         case "+":
                                 resultado = calc.doSoma(n1, n2);
                             break;

@@ -13,7 +13,7 @@ public class Main {
         frame.pack();
         frame.setSize(300, 300);
         frame.setLocationRelativeTo(null);
-        frame.setTitle("Calculadora de Rafael");
+        frame.setTitle("Projeto Calculadora Fabio e Silvano");
         frame.setVisible(true);
 
     }

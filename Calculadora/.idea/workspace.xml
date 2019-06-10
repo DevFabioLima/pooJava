@@ -8,63 +8,26 @@
   <component name="ChangeListManager">
     <list default="true" id="c4ef334d-911b-45c8-ab66-03309565a347" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/calc/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/calc/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/calc/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppSwing/com/swing/ViewCalc.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/calc/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calc/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/swing/ViewCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/swing/ViewCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/ProjetoJogoDaVelha.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/META-INF/ProjetoJogoDaVelha.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/company/Velha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/out/production/ProjetoJogoDaVelha/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/src/com/company/Velha.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/src/com/company/Velha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JogoDaVelha/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoJogoDaVelha/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,10 +56,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/swing/ViewCalc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="3043">
+              <caret line="181" column="43" lean-forward="true" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4171#4172#0" expanded="true" />
+                <element signature="e#4406#4407#0" expanded="true" />
+                <element signature="e#4641#4642#0" expanded="true" />
+                <element signature="e#4876#4877#0" expanded="true" />
+                <element signature="e#5111#5112#0" expanded="true" />
+                <element signature="e#5346#5347#0" expanded="true" />
+                <element signature="e#5581#5582#0" expanded="true" />
+                <element signature="e#5816#5817#0" expanded="true" />
+                <element signature="e#6051#6052#0" expanded="true" />
+                <element signature="e#6286#6287#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/calc/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="225">
+              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -147,15 +120,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Calculadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculadora" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calculadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculadora" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calculadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculadora" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calculadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculadora" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calculadora" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculadora" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="239" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JogoDaVelha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -204,8 +212,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -214,7 +223,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2913257" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2913257" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,10 +231,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.049099836" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.36497545" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -267,15 +276,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/calc/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -284,10 +293,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/swing/ViewCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="3043">
+          <caret line="181" column="43" lean-forward="true" selection-start-line="181" selection-start-column="43" selection-end-line="181" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4171#4172#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="true" />
+            <element signature="e#4641#4642#0" expanded="true" />
+            <element signature="e#4876#4877#0" expanded="true" />
+            <element signature="e#5111#5112#0" expanded="true" />
+            <element signature="e#5346#5347#0" expanded="true" />
+            <element signature="e#5581#5582#0" expanded="true" />
+            <element signature="e#5816#5817#0" expanded="true" />
+            <element signature="e#6051#6052#0" expanded="true" />
+            <element signature="e#6286#6287#0" expanded="true" />
           </folding>
         </state>
       </provider>
